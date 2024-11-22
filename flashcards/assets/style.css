@@ -54,3 +54,15 @@
         font-size: 1vw;
         backface-visibility: hidden;
     }
+    .cartao__conteudo__pergunta,
+    .cartao__conteudo__resposta {
+        backface-visibility: hidden;
+        position: absolute;
+        height: 360%;
+        width: 200%;
+    }
+    .cartao__conteudo p {
+        margin-top: 1rem;
+        padding: 2rem;
+        margin-top: 4rem;
+    }
