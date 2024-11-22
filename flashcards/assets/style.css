@@ -28,6 +28,9 @@
         flex-basis: calc(33% - 6rem);
     }
 
+.cartao__conteudo {
+    background-color: var(-card-front-color);
+}
     .cartao__conteudo h3 {
         background-color:blueviolet;
         text-align: left;
