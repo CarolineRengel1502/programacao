@@ -58,8 +58,8 @@
     .cartao__conteudo__resposta {
         backface-visibility: hidden;
         position: absolute;
-        height: 360%;
-        width: 200%;
+        height: 100%;
+        width: 100%;
     }
     .cartao__conteudo p {
         margin-top: 1rem;
